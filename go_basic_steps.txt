@@ -1,0 +1,6 @@
+//To build the project
+go build filename.go
+//To run the project
+go run filename.go
+//To download the plugin
+go get -u github.com/gorilla/mux
